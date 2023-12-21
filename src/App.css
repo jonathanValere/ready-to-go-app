@@ -64,3 +64,22 @@ button {
   background-color: #fff;
   color: var(--primary-color);
 }
+
+/* FOOTER */
+
+footer {
+  text-align: center;
+  background-color: rgb(46, 46, 46);
+  padding: 1rem 0;
+  font-size: 0.7rem;
+  color: #fff;
+  position: absolute;
+  width: 100vw;
+  bottom: 0;
+}
+
+footer a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 700;
+}
